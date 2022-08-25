@@ -1,44 +1,32 @@
 <!-- ![](https://i.imgur.com/XgsioqF.jpg) -->
 
- <center>
-<img src="./frontend/public/logo_new_resized.png" style="width: 500px" />
-</center>
+<p align="center">
+<img src="./frontend/public/logo_new_resized.png" style="width: 500px"/>
+</p>
 
-<center>
- <span style="color:#17CEDA; font-weight: 600;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  ✨ Helping you find what you need, where you need it. ✨  </span> 
-</center>
 
-</br></br></br></br></br></br></br></br></br>
+ <p style="color:#17CEDA; font-weight: 600;" align="center">  ✨ Helping you find what you need, where you need it. ✨  </p> 
+
+
+<br/>
 
 ## Table Of Contents
 
 </br>
 
-&nbsp; &nbsp;[Introduction](#♿-access-app)
-
-&nbsp; &nbsp;[Problem](#x-the-problem)
-
-&nbsp; &nbsp;[Solution](#whitecheckmark-our-solution)
-
-&nbsp; &nbsp;[Features](#➕-features)
-
-&nbsp; &nbsp;[Getting Started](#🏁-getting-started)
-
-&nbsp; &nbsp;[Environmental Variables](#🔑-environment-variables)
-
-&nbsp; &nbsp;[Tech Stack](#👩‍💻-tech-stack)
-
-&nbsp; &nbsp;[API Reference](#📚-api-reference)
-
-&nbsp; &nbsp;[Running Tests](#🧪-running-tests)
-
-&nbsp; &nbsp;[About Us](#🚀-about-us)
-
-&nbsp; &nbsp;[Lessons Learned](#🎓-lessons-learned)
-
-&nbsp; &nbsp;[Team Github Profiles](#🔗-team-github-profiles)
-
-&nbsp; &nbsp;[Acknowledgements](#❤️-acknowledgements)
+1. &nbsp; &nbsp;[Introduction](#♿-accessu-app)
+2. &nbsp; &nbsp;[Problem](#x-the-problem)
+3. &nbsp; &nbsp;[Solution](#whitecheckmark-our-solution)
+4. &nbsp; &nbsp;[Features](#➕-features)
+5. &nbsp; &nbsp;[Getting Started](#🏁-getting-started)
+6. &nbsp; &nbsp;[Environmental Variables](#🔑-environment-variables)
+7. &nbsp; &nbsp;[Tech Stack](#👩‍💻-tech-stack)
+8. &nbsp; &nbsp;[API Reference](#📚-api-reference)
+9. &nbsp; &nbsp;[Running Tests](#🧪-running-tests)
+10. &nbsp; &nbsp;[About Us](#🚀-about-us)
+11. &nbsp; &nbsp;[Lessons Learned](#🎓-lessons-learned)
+12. &nbsp; &nbsp;[Team Github Profiles](#🔗-team-github-profiles)
+13. &nbsp; &nbsp;[Acknowledgements](#❤️-acknowledgements)
 
 </br></br>
 </br></br>
