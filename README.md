@@ -35,7 +35,8 @@
 
 </br>
 
-&nbsp;Checkout our LIVE app here:
+&nbsp;Checkout our LIVE app here <br>
+(At the moment AccessU may not display correctly as our Heroku and Google Maps free trials have expired. We are working on fixing this problem):
 
 &nbsp;https://accessu-undefinedsoc.vercel.app/
 
